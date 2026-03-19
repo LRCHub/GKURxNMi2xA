@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "m.o.v.e / DOGFIGHT",
+  "base_artist": "avex",
+  "createdAt": "2026-03-19T11:15:42.576105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "m.o.v.e / DOGFIGHT",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/01_m.o.v.e___DOGFIGHT_avex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "m.o.v.e / Rage your dream",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/02_m.o.v.e___Rage_your_dream_avex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "M.O.V.E.",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_M.O.V.E._Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "m.o.v.e / Raise Up (feat. 土屋圭市)",
+      "artist": "avex",
+      "has_synced": true,
+      "path": "select/04_m.o.v.e___Raise_Up_(feat._土屋圭市)_avex.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "m.o.v.e / Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/05_m.o.v.e___Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "m.o.v.e / Rage your dream",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/06_m.o.v.e___Rage_your_dream_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "M-O-V-E",
+      "artist": "WAR*HALL",
+      "has_synced": false,
+      "path": "select/07_M-O-V-E_WAR_HALL.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Operation: M.O.V.E.",
+      "artist": "Leftöver Crack",
+      "has_synced": true,
+      "path": "select/08_Operation__M.O.V.E._Leftöver_Crack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Operation - M.O.V.E.",
+      "artist": "Leftöver Crack",
+      "has_synced": true,
+      "path": "select/09_Operation_-_M.O.V.E._Leftöver_Crack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "M-O-V-E",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/10_M-O-V-E_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "M.O.V.E Outsoar The Rainbow",
+      "artist": "MIZEV10",
+      "has_synced": true,
+      "path": "select/11_M.O.V.E_Outsoar_The_Rainbow_MIZEV10.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Operation M.O.V.E.",
+      "artist": "Leftöver Crack",
+      "has_synced": true,
+      "path": "select/12_Operation_M.O.V.E._Leftöver_Crack.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Sick - feat. motsu from m.o.v.e",
+      "artist": "田村ゆかり",
+      "has_synced": false,
+      "path": "select/13_Love_Sick_-_feat._motsu_from_m.o.v.e_田村ゆかり.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Operation- M.O.V.E.",
+      "artist": "Leftöver Crack",
+      "has_synced": true,
+      "path": "select/14_Operation-_M.O.V.E._Leftöver_Crack.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "M O V E",
+      "artist": "The Mighty Mighty Bosstones",
+      "has_synced": true,
+      "path": "select/15_M_O_V_E_The_Mighty_Mighty_Bosstones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "OVER DRIVE (High Power Remix) -- M.O.V.E",
+      "artist": "YanklePede",
+      "has_synced": true,
+      "path": "select/16_OVER_DRIVE_(High_Power_Remix)_--_M.O.V.E_YanklePede.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You & Me feat. motsu from m.o.v.e",
+      "artist": "Tamura Yukari",
+      "has_synced": true,
+      "path": "select/17_You_&_Me_feat._motsu_from_m.o.v.e_Tamura_Yukari.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "02 M O V E",
+      "artist": "The Mighty Mighty Bosstones",
+      "has_synced": true,
+      "path": "select/18_02_M_O_V_E_The_Mighty_Mighty_Bosstones.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "M.O.V.E. O.N. - Naked",
+      "artist": "Dream, Ivory",
+      "has_synced": false,
+      "path": "select/19_M.O.V.E._O.N._-_Naked_Dream,_Ivory.txt"
+    }
+  ]
+}
